@@ -32,9 +32,6 @@ const createCounter = () => {
       count = 0;
       updateDisplay();
     },
-    getCount() {
-      return count;
-    },
   };
 };
 
